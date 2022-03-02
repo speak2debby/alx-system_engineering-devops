@@ -1,1 +1,1 @@
-bash commands for printing absolute paths
+bash commands for printing absolute paths.
