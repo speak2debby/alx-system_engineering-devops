@@ -32,5 +32,9 @@
 
 17. Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result. (WATER is in base water, STIR is in base stir, The result should be in base bestchol)
 
+<<<<<<< HEAD
 Shell, init files, variables and expansions
 shell expansion questions
+=======
+
+>>>>>>> b4584887a95f58d738b26a5a3cd5f21b900a311f
